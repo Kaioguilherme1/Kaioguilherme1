@@ -1,6 +1,6 @@
-### Hi there 👋
+### Olá, 👋 sou Kaio Guilherme Estudante de Ciência da computação é entusiasta de eletronica e Desing nas horas vagas. 
 
- 🔭 Atualmente Estou Estudando 4° Semestre Ciência da computação na UFRR 
+ 🔭 Atualmente Estou Cursando 4° Semestre do Curso de Ciência da computação na UFRR. 
  
 <div align="center">
   <a href="https://github.com/Kaioguilherme1">
@@ -30,3 +30,4 @@
   
   ![Snake animation](https://github.com/kaioguilherme1/kaioguilherme1/blob/output/github-contribution-grid-snake.svg)
 </div>  
+ 📅 Atualizado dia 13 de abril de 2022
