@@ -9,13 +9,19 @@
 </div>
 <div style="display: inline_block"><br>
 
-  <a href="https://www.python.org"><img align="center" alt="kaio-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></a>
-  <a href="https://www.java.com/"><img align="center" alt="kaio-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></a>
-  <a href="https://docs.microsoft.com/pt-br/cpp/c-language/?view=msvc-170"><img align="center" alt="kaio-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></a>
-  <a href="https://www.arduino.cc"><img align="center" alt="kaio-arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"></a>
-  <a href="https://www.w3schools.com/html/"><img align="center" alt="kaio-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a>
-  <a href="https://www.w3schools.com/css/default.asp"><img align="center" alt="kaio-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></a>
-  <a href="https://www.adobe.com/br/products/illustrator/"><img align="center" alt="kaio-ilustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"></a>
+  <a href="https://www.python.org" target="_blank"><img align="center" alt="kaio-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></a>
+ 
+  <a href="https://www.java.com/" target="_blank"><img align="center" alt="kaio-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></a>
+ 
+  <a href="https://docs.microsoft.com/pt-br/cpp/c-language/?view=msvc-170" target="_blank"><img align="center" alt="kaio-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></a>
+ 
+  <a href="https://www.arduino.cc" target="_blank"><img align="center" alt="kaio-arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"></a>
+ 
+  <a href="https://www.w3schools.com/html/" target="_blank"><img align="center" alt="kaio-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a>
+ 
+  <a href="https://www.w3schools.com/css/default.asp" target="_blank"><img align="center" alt="kaio-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></a>
+ 
+  <a href="https://www.adobe.com/br/products/illustrator/" target="_blank"><img align="center" alt="kaio-ilustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"></a>
 </div>
 
   ##
