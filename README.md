@@ -1,6 +1,6 @@
-### Olá, 👋 sou Kaio Guilherme Estudante de Ciência da computação é entusiasta de eletronica e Desing nas horas vagas. 
+### Hello, 👋 I'm Kaio Guilherme Computer Science student is an electronics and design enthusiast in his spare time.
 
- 🔭 Atualmente Estou Cursando 4° Semestre do Curso de Ciência da computação na UFRR. 
+ 🔭 I am currently attending the 5th Semester of the Computer Science Course at UFRR.
  
 <div align="center">
   <a href="https://github.com/Kaioguilherme1">
@@ -16,6 +16,9 @@
   <a href="https://www.w3schools.com/html/" target= "_blank"><img align="center" alt="kaio-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a>
   <a href="https://www.w3schools.com/css/default.asp" target= "_blank"><img align="center" alt="kaio-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></a>
   <a href="https://www.adobe.com/br/products/illustrator/" target= "_blank"><img align="center" alt="kaio-ilustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"></a>
+  <a href="https://hub.docker.com/u/kaioguilherme" target= "_blank"><img align="center" alt="kaio-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></a>
+  <a href="https://wordpress.com/pt-br/" target= "_blank"><img align="center" alt="kaio-wordpress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg"></a>
+  <a href="" target= "_blank"><img align="center" alt="kaio-Debian" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg"></a>
 </div>
 
   ##
@@ -30,4 +33,4 @@
   
   ![Snake animation](https://github.com/kaioguilherme1/kaioguilherme1/blob/output/github-contribution-grid-snake.svg)
 </div>  
- 📅 Atualizado dia 13 de abril de 2022
+ 📅 Updated on September 02, 2022
