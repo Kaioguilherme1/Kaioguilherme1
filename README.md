@@ -2,6 +2,8 @@
 
  🔭 I am currently attending the 5th Semester of the Computer Science Course at UFRR.
  
+ [![@kaioguilherme's Holopin board](https://holopin.io/api/user/board?user=kaioguilherme)](https://holopin.io/@kaioguilherme)
+ 
 <div align="center">
   <a href="https://github.com/Kaioguilherme1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaioguilherme1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -22,7 +24,7 @@
 </div>
 
   ##
-  
+ 
 <div> 
   
   <a href="https://www.instagram.com/kaioguilherme001/" target= "_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target= "_blank"></a>
