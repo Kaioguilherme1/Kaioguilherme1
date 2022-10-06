@@ -8,7 +8,7 @@
   <a href="https://github.com/Kaioguilherme1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaioguilherme1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaioguilherme1&layout=compact&langs_count=7&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kaioguilherme1"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Kaioguilherme1&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats"/>
 </div>
 <div style="display: inline_block"><br>
 
@@ -36,4 +36,4 @@
   
   ![Snake animation](https://github.com/kaioguilherme1/kaioguilherme1/blob/output/github-contribution-grid-snake.svg)
 </div>  
- 📅 Updated on September 02, 2022
+ 📅 Updated on October 06, 2022
