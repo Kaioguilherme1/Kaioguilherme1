@@ -1,6 +1,6 @@
 ### Hello, 👋 I'm Kaio Guilherme Computer Science student is an electronics and design enthusiast in his spare time.
 
- 🔭 I am currently attending the 5th Semester of the Computer Science Course at UFRR.
+ 🔭 I am currently attending the 6th Semester of the Computer Science Course at UFRR.
  
  [![@kaioguilherme's Holopin board](https://holopin.io/api/user/board?user=kaioguilherme)](https://holopin.io/@kaioguilherme)
  
@@ -36,4 +36,4 @@
   
   ![Snake animation](https://github.com/kaioguilherme1/kaioguilherme1/blob/output/github-contribution-grid-snake.svg)
 </div>  
- 📅 Updated on October 06, 2022
+ 📅 Updated on March 21, 2022
