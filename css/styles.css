@@ -1,0 +1,197 @@
+@import 'themes.css';
+
+body {
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  overflow: auto;
+}
+
+.center {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-right: 40px;
+    padding-left: 40px;
+    max-width: 60%;
+    border-right: solid 2px var(--footer-bg-color);
+    border-left: solid 2px var(--footer-bg-color);
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: var(--header-bg-color);
+    border-bottom: 1px solid var(--text-color);
+}
+
+.header-left h1 {
+    font-size: 24px;
+    margin: 0;
+}
+
+.header-right ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    margin: 0;
+    padding: 0;
+}
+
+.header-right li a {
+    color: var(--text-color);
+    text-decoration: none;
+    transition: color 0.3s;
+    position: relative;
+}
+
+.header-right li a:before {
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 2px;
+    bottom: -3px;
+    left: 0;
+    background-color: var(--link-color);
+    visibility: hidden;
+    transform: scaleX(0);
+    transition: all 0.3s ease-in-out;
+}
+
+.dark-theme .header-right li a:before {
+    /* Cor do tema escuro */
+    background-color: var(--link-color);
+}
+
+.light-theme .header-right li a:before {
+    /* Cor do tema claro */
+    background-color: var(--text-color);
+}
+
+.header-right li a:hover:before {
+    visibility: visible;
+    transform: scaleX(1);
+}
+
+.header-right li a:hover {
+    color: var(--link-color);
+}
+
+.theme-toggle,
+.language-toggle {
+    background-color: #24292e;
+    color: #c9d1d9;
+    border: none;
+    cursor: pointer;
+    font-size: 14px;
+    margin-left: 10px;
+    border-radius: 20px;
+    padding: 5px 10px;
+    display: flex;
+    align-items: center;
+    transition: background-color 0.3s, color 0.3s, transform 0.3s;
+}
+
+.theme-toggle:hover,
+.language-toggle:hover {
+    background-color: #58a6ff;
+    color: #ffffff;
+}
+
+.theme-toggle:focus,
+.language-toggle:focus {
+    outline: none;
+}
+
+.theme-toggle.light-theme {
+    background-color: #ffffff;
+    color: #24292e;
+}
+
+.language-toggle.en {
+    background-color: #24292e;
+    color: #c9d1d9;
+}
+
+.language-toggle.pt {
+    background-color: #24292e;
+    color: #c9d1d9;
+}
+
+.language-toggle.en:hover,
+.language-toggle.pt:hover {
+    background-color: #58a6ff;
+    color: #ffffff;
+    transform: scale(1.1);
+}
+
+.language-toggle.en.light-theme {
+    background-color: #ffffff;
+    color: #24292e;
+}
+
+.language-toggle.pt.light-theme {
+    background-color: #ffffff;
+    color: #24292e;
+}
+
+
+.main {
+    display: flex;
+    flex-direction: column;
+    max-width: 60%;
+    flex-grow: 1;
+}
+
+
+footer {
+    background-color: var(--footer-bg-color);
+    color: var(--text-color);
+    padding: 1rem;
+    text-align: center;
+    font-size: 14px;
+    border-top: 1px solid var(--text-color);
+    bottom: 0;
+
+}
+
+footer p {
+    margin: 0;
+}
+
+.social-icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.social-icons img {
+  width: 40px;
+  height: 40px;
+  transition: transform 0.3s;
+}
+
+.social-icons img:hover {
+  transform: scale(1.2);
+}
+
+main {
+    padding: 20px;
+}
+

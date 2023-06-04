@@ -1,0 +1,57 @@
+@import "styles.css";
+@import "themes.css";
+
+.intro-container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+}
+
+.intro-container a img {
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+}
+.stats-container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+
+.stats-dynamic {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  width: 1100px;
+  border: none;
+}
+
+.graph {
+    border-radius: 5px;
+    min-width: 100%;
+    min-height: 100%;
+}
+
+.horizontal-center {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+object {
+  max-height: 60%;
+  max-width: 60%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.knowledge-container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
