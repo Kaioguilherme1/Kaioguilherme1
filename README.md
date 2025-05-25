@@ -1,8 +1,17 @@
 ### Hello, 👋 I'm Kaio Guilherme Computer Science student is an electronics and design enthusiast in his spare time.
 
- 🔭 I am currently attending the 6th Semester of the Computer Science Course at UFRR.
- 
+ 🔭 I am currently attending the 8th Semester of the Computer Science Course at UFRR.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=200&section=header&text=Kaio%20Guilherme%20|%20DevOps%20&%20Network%20Engineer&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello!+I'm+Kaio+Guilherme;Network+Automation+%26+DevOps+Engineer;Data+Center+Operations;Observability+and+Infrastructure+Engineer;Computer+Science+Researcher+at+UFRR;Welcome+to+my+profile!)](https://git.io/typing-svg)
+
+
 [![@kaioguilherme's Holopin board](https://holopin.io/api/user/board?user=kaioguilherme)](https://holopin.io/@kaioguilherme)
+<div align="center">
+  <br><h1 align="center"><b>Visitor Count</b></h1>  
+  <p align="center">
+    <img align="center" src="https://profile-counter.glitch.me/Kaioguilherme1/count.svg"/>
+  </p> 
+</div>
 
 <div align="center">
   <a href="https://github.com/Kaioguilherme1">
@@ -10,19 +19,35 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaioguilherme1&layout=compact&langs_count=7&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Kaioguilherme1&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D"/>
 </div>
-<div style="display: inline_block"><br>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kaioguilherme1&theme=algolia&row=2&no-bg=true&column=4&margin-w=15&margin-h=15"/>
+</p>
 
-  <a href="https://www.python.org" target= "_blank"><img align="center" alt="kaio-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></a>
-  <a href="https://www.java.com/" target= "_blank"><img align="center" alt="kaio-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></a>
-  <a href="https://docs.microsoft.com/pt-br/cpp/c-language/?view=msvc-170" target="_blank"><img align="center" alt="kaio-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></a>
-  <a href="https://www.arduino.cc" target= "_blank"><img align="center" alt="kaio-arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"></a>
-  <a href="https://www.w3schools.com/html/" target= "_blank"><img align="center" alt="kaio-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a>
-  <a href="https://www.w3schools.com/css/default.asp" target= "_blank"><img align="center" alt="kaio-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></a>
-  <a href="https://www.adobe.com/br/products/illustrator/" target= "_blank"><img align="center" alt="kaio-ilustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"></a>
-  <a href="https://hub.docker.com/u/kaioguilherme" target= "_blank"><img align="center" alt="kaio-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></a>
-  <a href="https://wordpress.com/pt-br/" target= "_blank"><img align="center" alt="kaio-wordpress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg"></a>
-  <a href="" target= "_blank"><img align="center" alt="kaio-Debian" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg"></a>
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Kaioguilherme1&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+## 🖥️ **Tech Stack**
+
+### 🚩 **Languages**
+- Python • Java • C • HTML5 • CSS3 • JavaScript • Bash
+
+### 🐳 **DevOps & Infrastructure Automation**
+- Docker • Docker Compose • Containerlab • Netbox • Python Automation • Poetry
+
+### 📊 **Monitoring & Observability**
+- Zabbix • Grafana • InfluxDB • ELK Stack (Elasticsearch, Logstash, Kibana)
+
+### 🔐 **Network Security & Troubleshooting**
+- 🔥 **Firewall**: pfSense • UFW (Uncomplicated Firewall)
+- 🔍 **Security Tools**: Nmap • Wireshark • Tcpdump • IDS/IPS Concepts
+- 🧠 **Network Debugging**: Packet Capture, Flow Analysis (IPFIX/NetFlow), SNMP, Syslog
+
+### 📚 **Documentation & Knowledge Base**
+- MkDocs • WordPress • Markdown • Git
+
+### 💻 **Operating Systems**
+- Windows • Debian • Ubuntu • MacOS • pfSense BSD-based
+
 
   ##
  
@@ -34,6 +59,7 @@
  
   ##
   
-  ![Snake animation](https://github.com/kaioguilherme1/kaioguilherme1/blob/output/github-contribution-grid-snake.svg)
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+
 </div>  
- 📅 Updated on March 21, 2022
+ 📅 Updated on March 25, 2025
